@@ -1,0 +1,33 @@
+#one{
+    position: static;
+}
+#two{
+    position: static;
+}
+.result1{
+    border: 2px solid red;
+    width: 80%;
+}
+.result2{
+    border: 2px solid red;
+    width: 80%;
+}
+
+.box{
+    border: 2px solid red;
+    height; 600px;
+    width: 200px;
+}
+
+.result1{
+    background-color: lightblue;
+    position: relative;
+    height: 300px;
+    width: 200px;
+}
+
+.result2{
+    background-color: lightgreen;
+    height: 300px;
+    width: 200px;
+}
